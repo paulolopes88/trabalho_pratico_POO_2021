@@ -14,7 +14,7 @@ private:
 public:
 	Tipo(int ID = 1, string Nome = "");
 	virtual ~Tipo();
-
+	//Teste_comentario
 	//get e set
 	int getID();
 	string getNome();
